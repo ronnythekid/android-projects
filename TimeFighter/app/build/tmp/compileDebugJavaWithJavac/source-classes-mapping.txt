@@ -1,0 +1,2 @@
+com/example/timefighter/ronnyyungan/BuildConfig.java
+ com.example.timefighter.ronnyyungan.BuildConfig
